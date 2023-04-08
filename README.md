@@ -1,5 +1,5 @@
 # Pixel-Plant-2D
-Pixel Planet Is 2d Mmo Sandbox Game That Writen In C#
+Pixel Planet Is A Game Like Growtopia That Writen In C#
 # Used Things In Pixel Planet 2D
 -Client = C# (Used Unity For Design)
 -Server = C# (Used Visual Studio To Code)
