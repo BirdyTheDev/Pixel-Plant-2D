@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/128981901/230715812-0819b406-a268-47e6
 
 -------------------------------------------------------------------------------------------------------------------------------
 # To-Do List
-- [ ] Synchronize Block Types (When Putting Rock Put Rock On Every Connected Client In World)
+- [x] Synchronize Block Types (When Putting Rock Put Rock On Every Connected Client In World)
 - [ ] Add Private Message /msg name
 - [ ] Use Sql To Store UserData And WorldData
 - [ ] Change Networking To Unet Or Win Sock (That Will Never Happen Im Too Lazy To Re-Write :D)
